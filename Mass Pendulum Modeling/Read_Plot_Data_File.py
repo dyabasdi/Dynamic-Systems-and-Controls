@@ -12,7 +12,7 @@ plt.close('all') # close all plots
 # --------------------------------------
 # Load and select data
 # --------------------------------------
-fileName = "TA_Data.csv" # set to your specific filename
+fileName = "Lab_Data.csv" # set to your specific filename
 
 # Read csv file
 data = pd.read_csv(fileName)
